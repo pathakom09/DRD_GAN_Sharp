@@ -1,0 +1,9 @@
+numpy
+torchvision
+torch
+fastai==1.0.61
+starlette
+uvicorn
+python-multipart
+aiofiles
+aiohttp
